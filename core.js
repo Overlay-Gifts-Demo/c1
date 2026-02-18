@@ -1,6 +1,6 @@
 /* core.js - Jewels-Ai: Master Engine (v11.6 - Fixed Mix & Match) */
 
-/* --- CONFIGURATION --- */
+/* --- CONFIGURATION ---- */
 const API_KEY = "AIzaSyC35sqqZA1YaxZ-F4PJaDqQpKBxPyMKOzw"; 
 
 const DRIVE_FOLDERS = {
